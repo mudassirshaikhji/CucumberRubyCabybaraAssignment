@@ -1,0 +1,19 @@
+Steps to run the tests:
+
+1. These tests run on Mozilla Firefox. Install Firefox in case it is not already installed. 
+
+2. In order to run these Capybara tests, you should have Ruby 2.2.0 or later installed on your machine. In case you don't have ruby installed, then install ruby. For windows, you can get ruby from http://rubyinstaller.org/downloads/.
+
+3. Once the ruby is installed, check the Ruby version by running Ruby -v command.
+
+4. Run the command gem -v to verify the RubyGems installation.
+
+5. Install cucumber by running the following command - gem install cucumber.
+
+6. Install Capybara by running the following command - gem install capybara.
+
+7. Install Selenium webdriver by running the following command - gem install selenium-webdriver.
+
+8. Save the attached tests in some folder and navigate to the folder in command prompt.
+
+9. Run the test by using the command cucumber.
